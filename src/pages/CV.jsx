@@ -2,7 +2,7 @@ import React from 'react';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
 import './../estilos/estilocv.css';
-import { FaLinkedin, FaInstagram, FaWhatsapp } from "react-icons/fa";
+import { FaLinkedin,  FaWhatsapp } from "react-icons/fa";
 
 function CV() {
   const mainStyle = {

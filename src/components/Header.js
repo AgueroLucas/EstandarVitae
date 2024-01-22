@@ -1,5 +1,4 @@
 import React from 'react';
-import { FaBook } from 'react-icons/fa';
 import { HiUserAdd } from "react-icons/hi";
 
 // Importa el estilo de letra desde Google Fonts
