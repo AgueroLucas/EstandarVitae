@@ -18,7 +18,7 @@ const Footer = () => {
 
         <ul className="nav col-md-4 justify-content-end list-unstyled d-flex">
   <li className="ms-3">
-    <a className="text-body-white" href="https://www.linkedin.com/in/matias-bertola-444417251/" target="_blank" rel="noopener noreferrer">
+    <a className="text-body-white" href="https://www.linkedin.com/in/" target="_blank" rel="noopener noreferrer">
       <FaLinkedin style={{ fontSize: '3rem', color: '#7289DA' }} />
     </a>
   </li>
@@ -28,7 +28,7 @@ const Footer = () => {
     </a>
   </li>
   <li className="ms-3">
-    <a className="text-body-white" href="https://wa.me/5492634365553" target="_blank" rel="noopener noreferrer">
+    <a className="text-body-white" href="https://wa.me/" target="_blank" rel="noopener noreferrer">
       <FaWhatsapp style={{ fontSize: '3rem', color: '#25D366' }} />
     </a>
   </li>
