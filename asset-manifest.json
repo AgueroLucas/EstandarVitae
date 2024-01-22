@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/EstandarVitae/static/css/main.3984add8.css",
+    "main.js": "/EstandarVitae/static/js/main.0667b421.js",
+    "index.html": "/EstandarVitae/index.html",
+    "main.3984add8.css.map": "/EstandarVitae/static/css/main.3984add8.css.map",
+    "main.0667b421.js.map": "/EstandarVitae/static/js/main.0667b421.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3984add8.css",
+    "static/js/main.0667b421.js"
+  ]
+}
