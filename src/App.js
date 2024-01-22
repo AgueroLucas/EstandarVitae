@@ -8,7 +8,7 @@ function App() {
     <div>
       {
         <Router>
-          <Routes>
+          <Routes >
             <Route path="/" element={<Main />} />
             <Route path="/cv" element={<Cv />} />
           </Routes>
