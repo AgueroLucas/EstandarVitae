@@ -7,7 +7,7 @@ function App() {
   return (
     <div>
       {
-        <Router basename="/EstandarVitae">
+        <Router >
           <Routes >
             <Route path="/" element={<Main />} />
             <Route path="/cv" element={<Cv />} />
