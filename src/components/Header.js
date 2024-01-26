@@ -32,7 +32,7 @@ const Header = () => {
           </a>
 
           <ul className="nav col-12 col-lg-auto me-lg-auto mb-1 justify-content-center mb-md-4">
-            {/* Aplica la clase 'custom-link' a los enlaces */}
+            
             <li>
               <a
                 href="/"
