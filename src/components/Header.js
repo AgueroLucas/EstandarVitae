@@ -40,11 +40,11 @@ const Header = () => {
                 style={linkStyle}
                 onMouseOver={(e) => {
                   e.target.style.boxShadow = '0 0 10px rgba(0, 0, 0, 0.5)';
-                  e.target.style.transform = 'scale(1.15)'; // Hace que sobresalga ligeramente
+                  e.target.style.transform = 'scale(1.15)'; 
                 }}
                 onMouseOut={(e) => {
                   e.target.style.boxShadow = 'none';
-                  e.target.style.transform = 'scale(1)'; // Restaura el tamaño original
+                  e.target.style.transform = 'scale(1)'; 
                 }}
               >
                 Inicio
